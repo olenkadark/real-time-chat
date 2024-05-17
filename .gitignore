@@ -1,0 +1,7 @@
+/node_modules/
+/.idea/
+/.firebase/
+/.github/
+/firebase.json
+/.firebaserc
+/dist/
